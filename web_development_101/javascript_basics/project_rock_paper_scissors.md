@@ -1767,4 +1767,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [gitliffi's Solution](https://github.com/gitliffi/rockpaperscissors) - [View in Browser](https://gitliffi.github.io/rockpaperscissors/index.html)
 - [whitekoel's Solution](https://github.com/whitekoel/RockPaperScissors)
 - [Burak's Solution](https://github.com/Burak-Esen/rock-paper-scissors) - [View in Browser](http://burak-esen.com/rock-paper-scissors/)
+- [Ahmad Alhajh's Solution](https://github.com/ahmadalhajh/game_01) - [View in Browser](https://ahmadalhajh.github.io/game_01/)
 </details>
